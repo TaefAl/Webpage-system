@@ -7,5 +7,5 @@ The web page was created in a simple way and the SQL table was used to add perso
 
 # Website preview 
 
-"D:\Web.mp4" 
+
 
