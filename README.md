@@ -18,8 +18,6 @@ The web page was created in a simple way and the SQL table was used to add perso
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>User Management System</title>
-    <style>
         * {
             margin: 0;
             padding: 0;
