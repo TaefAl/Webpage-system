@@ -7,5 +7,6 @@ The web page was created in a simple way and the SQL table was used to add perso
 
 # Website preview 
 
+videos/جارٍ تسجيل الشاشة 2025-07-15 050340.mp4
 
 
