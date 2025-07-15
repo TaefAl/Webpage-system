@@ -8,7 +8,8 @@ The web page was created in a simple way and the SQL table was used to add perso
 # Website preview 
 
 
-# The Code<!DOCTYPE html>
+# The Code
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
