@@ -208,7 +208,6 @@ The web page was created in a simple way and the SQL table was used to add perso
 </head>
 <body>
     <div class="container">
-      Hello
         
         <div class="form-section">
             <form id="userForm">
