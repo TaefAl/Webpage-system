@@ -7,7 +7,6 @@ The web page was created in a simple way and the SQL table was used to add perso
 
 # Website preview 
 
-videos/Web.mp4
-
+<!-- Failed to upload "جارٍ تسجيل الشاشة 2025-07-15 050340.mp4" -->
 
 
